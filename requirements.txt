@@ -1,7 +1,7 @@
 opencv-python-headless
 numpy
 matplotlib
-cmake
+CMake
 streamlit
 dlib-bin
 face_recognition
