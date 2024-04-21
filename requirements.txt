@@ -2,6 +2,6 @@ opencv-python-headless
 numpy
 matplotlib
 streamlit
-# Example: Find a compatible dlib wheel or host your own
-dlib==19.22.0  # This is an example version; adjust as needed
+cmake
+dlib-bin
 face_recognition
